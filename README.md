@@ -1,9 +1,6 @@
 # Gesture-Recognition-Project
 Gesture-Recognition-Case-Study
 
-# Gesture Recognition Case study IIITB Assignment 
-
-
 Developed by:
 1. Samuel Sushanth Kolli
 2. Manoj Shah
